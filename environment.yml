@@ -16,3 +16,4 @@ dependencies:
   - iprogress
   - ipywidgets
   - jupyter
+  - xgboost
